@@ -63,7 +63,7 @@ version: v1.1.0
 # Prose editor
 prose:
   rooturl: '_posts'
-  media: 'media'
+  media: 'images'
   
 # Set the Sass partials directory, as we're using @imports
 sass:
